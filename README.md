@@ -1,4 +1,4 @@
-# Recommendation-System-for-Netflix-dataset
+# Recommender system for Netflix dataset (Surprise SVD modelling)
 
 Project title: Netflix Recommendation System
 
